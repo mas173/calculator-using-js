@@ -36,7 +36,7 @@ You can try the calculator live [here](#) *(Add link to your live demo if hosted
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/mas173/calculator.git
+   git clone https://github.com/mas173/calculator-using-js.git
 cd calculator
 
 Feel free to customize this template with your specific project details, live demo links, or contact information!
